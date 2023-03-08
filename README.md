@@ -2,7 +2,6 @@
 <html>
      <head>
         <meta charset="utf-8 /">
-        <script src="./js/mostermoon.js"> </script>  
         <link rel="stylesheet" href="./estilos.CSS">
      </head>
      <body>
