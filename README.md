@@ -1,4 +1,3 @@
-## MOSTERMOON
 <!DOCTYPE html>
 <html>
      <head>
